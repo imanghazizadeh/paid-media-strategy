@@ -3,13 +3,20 @@ Q1 2025 Paid Media Performance Analysis and Strategy for Axiolo
 
 This project presents a full-funnel paid media performance analysis for Axiolo, prepared as part of a marketing strategy challenge. It showcases data-driven insights, media efficiency metrics, and actionable recommendations to improve marketing ROI and conversion quality.
 
-## 📁 Contents
+# 📊 Axiolo Paid Media Challenge — Q1 2025
 
-- `Axiolo_Challenge_Iman.pdf` – Slide deck with full analysis and visualizations
-- `/Data` – Source data (Excel workbook with funnel and keyword metrics)
-- `/Visuals` – Key charts from the presentation
-- `/Analysis` – Written funnel insights and channel-level performance review
-- `/Recommendations` – Strategic roadmap for optimization
+This project showcases a complete paid media performance and funnel efficiency analysis developed for Axiolo, as part of a strategic marketing challenge. The work spans data modeling, media analysis, and actionable optimization tactics.
+
+## 🔗 Access All Project Files
+
+📁 [Google Drive Folder – Axiolo Paid Media Challenge](https://drive.google.com/drive/folders/1yoMPI-Xk1STldzJkLLKkEg8BrYNOhViz?usp=sharing)
+
+**Included:**
+- 🎯 Full slide presentation (PDF)
+- 📊 Raw data file (Excel)
+- 🖼️ Visuals & funnel breakdown
+- 📝 Strategic recommendations
+
 
 ## 📌 Key Highlights
 
