@@ -1,11 +1,9 @@
-# 📊  paid-media-strategy
+
+
+# 📊 Axiolo Paid Media Challenge — Q1 2025
 Q1 2025 Paid Media Performance Analysis and Strategy for Axiolo 
 
 This project presents a full-funnel paid media performance analysis for Axiolo, prepared as part of a marketing strategy challenge. It showcases data-driven insights, media efficiency metrics, and actionable recommendations to improve marketing ROI and conversion quality.
-
-# 📊 Axiolo Paid Media Challenge — Q1 2025
-
-This project showcases a complete paid media performance and funnel efficiency analysis developed for Axiolo, as part of a strategic marketing challenge. The work spans data modeling, media analysis, and actionable optimization tactics.
 
 ## 🔗 Access All Project Files
 
