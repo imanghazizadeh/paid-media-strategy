@@ -49,8 +49,7 @@ Digital Marketing & Paid Media Strategist
 ## 🖥️ How to View
 
 1. Open the PDF presentation: `Axiolo_Challenge_Iman.pdf`
-2. Review `Data/Data_for_Challenge_Apollo.xlsx` for source metrics.
-3. Explore insights and strategy folders.
+2. Review `Data/Data_sheet_for_Challenge.xlsx` for source metrics.
 
 ---
 
